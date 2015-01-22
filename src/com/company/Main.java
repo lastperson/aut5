@@ -7,6 +7,8 @@ public class Main {
         int d3 = diskrim(5, 3, 2, 7);
         int d4 = diskrim(3, 6, 2, 9);
 
+        // Some new changes
+
         System.out.println("d1 = " + d1 + " d2 = " + d2 + " d3 = " + d3 + " d4 = " + d4);
     }
 
